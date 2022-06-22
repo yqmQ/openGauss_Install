@@ -1,1 +1,1 @@
-# openGauss-
+# openGauss_Install
