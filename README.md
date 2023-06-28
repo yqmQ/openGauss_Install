@@ -79,7 +79,7 @@ source ~/.bashrc
 gs_initdb -E UTF-8 --locale=zh_CN.UTF-8 /home/userName/data/data/data_n1 --nodename dn1 -w Bigdata@123 #-w 后面是设置数据库密码
 ```
 
-> ![初始化数据库](img\初始化数据库.png)
+> ![初始化数据库](img/初始化数据库.png)
 
 ##  启动GaussDB 
 
@@ -101,6 +101,6 @@ gs_initdb -E UTF-8 --locale=zh_CN.UTF-8 /home/userName/data/data/data_n1 --noden
 gsql -d postgres -p 5432 #p 5432是pg的默认端口
 ```
 
-![连接数据库](img\连接数据库.png)
+![连接数据库](img/连接数据库.png)
 
 **可以看到连接成功**
