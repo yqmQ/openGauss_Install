@@ -93,7 +93,7 @@ gs_initdb -E UTF-8 --locale=zh_CN.UTF-8 /home/userName/data/data/data_n1 --noden
 
 `gs_ctl start -D /home/userName/install/data/datanode1 -Z single_node -l /home/userName/gauss.log`
 
-*** 如果前台启动有问题可以试一试后台启动***
+***如果前台启动有问题可以试一试后台启动***
 
 ## 连接数据库
 
